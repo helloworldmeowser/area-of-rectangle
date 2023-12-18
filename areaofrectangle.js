@@ -12,3 +12,8 @@ const area2 =  width2 * height2;
 const width3 = 10;
 const height3 = 10;
 const area3 =  width3 * height3;
+
+// Function Declaration
+function greetWorld() {
+  console.log('Hello world!');
+}
