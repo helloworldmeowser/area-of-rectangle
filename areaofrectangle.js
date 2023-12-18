@@ -23,3 +23,17 @@ function getReminder() {
 function greetInSpanish() {
   console.log('Buenas tardes.');
 }
+// Calling a Function
+function getGreeting() {
+  console.log("Hello, World!");
+}
+getGreeting();
+// Code after function call
+
+function sayThanks() {
+  console.log('Thank you for your purchase! We appreciate your business.');
+}
+
+sayThanks();
+sayThanks();
+sayThanks();
