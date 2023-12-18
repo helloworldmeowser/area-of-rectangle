@@ -17,3 +17,9 @@ const area3 =  width3 * height3;
 function greetWorld() {
   console.log('Hello world!');
 }
+function getReminder() {
+  console.log('Water the plants.');
+}
+function greetInSpanish() {
+  console.log('Buenas tardes.');
+}
