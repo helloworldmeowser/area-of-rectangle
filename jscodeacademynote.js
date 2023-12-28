@@ -52,3 +52,15 @@ function rectangleArea(width, height) {
   let area = width * height;
 }
 console.log(rectangleArea(5, 7)) // Prints undefined
+
+const plantNeedsWater = function(day) {
+  if(day === 'Wednesday'){
+    return true;
+  } else {
+    return false;
+  }
+};
+//we have a plant that we need to water once a week on Wednesdays. 
+plantNeedsWater('Tuesday');
+
+console.log(plantNeedsWater('Tuesday'));
