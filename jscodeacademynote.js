@@ -76,3 +76,11 @@ const plantNeedsWater = (day) => {
 plantNeedsWater('Tuesday');
 
 console.log(plantNeedsWater('Tuesday'));
+//Body Arrow Function Example
+//Zero Parameters Example
+const functionName = () => {};
+//One Parameters Example
+const functinoName = paramOne => {};
+//Two or More Parameters
+const functinoName = (paramOne, paramTwo) => {};
+
